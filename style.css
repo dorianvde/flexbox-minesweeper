@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@700&display=swap');
+
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width:400px;
+    height:400px;
+    background-color: darkgrey;
+    margin: 0 auto;
+}
+
+
+  .main > div {
+    height: 40px;
+    width: 40px;
+    position: auto;
+    margin: 0 auto;
+  }
+
+
+.flex { 
+    display: flex;
+    background-color: Grey;
+    
+  }
+
+
+  .flex > div {
+
+  }
+  
+  .cell {
+
+
+
+  }
+
+  .cellbomb{
+
+  }
+
+  .cellnul{
+
+
+  }
